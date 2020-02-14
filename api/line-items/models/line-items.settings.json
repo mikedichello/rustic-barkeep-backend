@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "line_items",
+  "info": {
+    "name": "LineItems"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Quantity": {
+      "type": "integer"
+    }
+  }
+}
