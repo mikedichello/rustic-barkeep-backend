@@ -33,6 +33,18 @@
       "minLength": 3,
       "required": true,
       "unique": true
+    },
+    "Custom1Name": {
+      "type": "string"
+    },
+    "Custom1Options": {
+      "type": "string"
+    },
+    "Custom2Name": {
+      "type": "string"
+    },
+    "Custom2Options": {
+      "type": "string"
     }
   }
 }
