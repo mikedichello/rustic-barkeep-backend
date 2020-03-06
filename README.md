@@ -1,3 +1,3 @@
-# Strapi application
+# Rustic Barkeep Back End
 
-A quick description of your strapi application
+npm run start to boot strapi API
