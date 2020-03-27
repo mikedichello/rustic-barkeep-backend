@@ -25,7 +25,7 @@
   },
   "ip": {
     "enabled": false,
-    "whiteList": [],
+    "whiteList": ["http://192.241.135.177", "https://rustic-barkeep.herokuapp.com"],
     "blackList": []
   }
 }
